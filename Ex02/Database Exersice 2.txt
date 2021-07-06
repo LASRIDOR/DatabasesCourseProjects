@@ -1,0 +1,9 @@
+Database Ex02
+Semester A year 2020
+
+
+Name 1: Dor Lasri
+ID: 313426975
+
+Name 2: Amit Aharoni
+ID: 312346901
